@@ -260,6 +260,7 @@ view route invalidGroups =
                 , ( "Infura", AccountRoute "infura", True )
                 , ( "Kraken", AccountRoute "kraken", True )
                 , ( "Mailjet", AccountRoute "mailjet", True )
+                , ( "QuadrigaCX", AccountRoute "quadrigacx", True )
                 , ( "Strike", AccountRoute "strike", True )
                 , ( "Twilio", AccountRoute "twilio", True )
                 ]
