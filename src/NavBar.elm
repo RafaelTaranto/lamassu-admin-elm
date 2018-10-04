@@ -259,7 +259,7 @@ view route invalidGroups =
                 , ( "Blockcypher", AccountRoute "blockcypher", True )
                 , ( "Infura", AccountRoute "infura", True )
                 , ( "Kraken", AccountRoute "kraken", True )
-                , ( "Mailjet", AccountRoute "mailjet", True )
+                , ( "Mailgun", AccountRoute "mailgun", True )
                 , ( "QuadrigaCX", AccountRoute "quadrigacx", True )
                 , ( "Strike", AccountRoute "strike", True )
                 , ( "Twilio", AccountRoute "twilio", True )
